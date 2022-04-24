@@ -4,10 +4,18 @@ Scenario: Hello1
 
 Given I m on login page 
 
-Scenario: Hello1
+Scenario: Hello2
 
 Given I m on login page 
 
+Scenario: Hello3
+
+Given I m on login page 
+
+@Last
+Scenario: Hello4
+
+Given I m on login page 
 
 
 
